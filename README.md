@@ -6,4 +6,4 @@ The motivating (and for now only) use case is to expose info about the active ed
 
 ## Commands
 
-- `activeEditorInfo.languageId`: returns the language id of the active editor
+- `activeEditorInfo.languageId`: returns the language id of the active editor, or `null` if there is no active editor
