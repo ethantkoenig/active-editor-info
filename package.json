@@ -2,6 +2,11 @@
   "name": "active-editor-info",
   "displayName": "Active editor info",
   "description": "Provides commands returning various info about the active editor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethantkoenig/active-editor-info.git"
+  },
+  "publisher": "ethantkoenig",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
