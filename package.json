@@ -19,7 +19,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "activeEditorInfo.languageId"
+        "command": "activeEditorInfo.languageId",
+        "title": "Active editor info: Get language id"
       }
     ]
   },
