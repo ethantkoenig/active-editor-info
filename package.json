@@ -19,8 +19,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "activeEditorInfo.languageId",
-        "title": "Active editor info: Get language id"
+        "command": "activeEditorInfo.get",
+        "title": "Active editor info: Get info"
       }
     ]
   },
@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.6",
-    "@types/node": "18.x",
+    "@types/node": "^18.19.130",
     "@types/vscode": "^1.86.0",
     "@typescript-eslint/eslint-plugin": "^6.19.1",
     "@typescript-eslint/parser": "^6.19.1",
